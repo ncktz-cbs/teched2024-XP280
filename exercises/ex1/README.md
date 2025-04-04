@@ -61,7 +61,7 @@ The basic configuration of the Terraform provider for SAP BTP is available in th
     globalaccount = "<your-global-account-subdomain>"
     ```
 
-    Enter the subdomain value of *your* global account which has the format `xxxxxxxxtrial-ga` and save your changes.
+    Enter the subdomain value of *your* global account which has the format `xxxxxxxxtrial` and save your changes.
 
     You find the value in the SAP BTP Cockpit in the account explorer:
 
